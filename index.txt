@@ -1,0 +1,1 @@
+ I am excited to be learning git and this happens to be my first commit
