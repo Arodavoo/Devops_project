@@ -1,6 +1,6 @@
 # Linux Implementation
 ## Introduction to Linux and Basic Commands
-A Linux command is a program or utility that runs on the cli. Linux commands are executed by pressing Enter at the end of the line . You can run commands to perform various tasks , from package installation to user management and file manipulation. 
+A Linux command is a program or utility that runs on the cli . Linux commands are executed by pressing Enter at the end of the line . You can run commands to perform various tasks , from package installation to user management and file manipulation. 
 A command line generally looks like :
 
 `CommandName [option(s)]`
